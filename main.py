@@ -1,5 +1,5 @@
 from scipy.integrate import quad 
-
+fffffffffffffff
 def beta(R, T, M, Q, a, p):
 	"""
 	Gravity force to light pressure force fractoin.
